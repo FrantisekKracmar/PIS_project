@@ -5,3 +5,5 @@ Téma: Rezervační systém na ubytování
 Na příští přednášce:
 * schválení tématu
 * co chce za diagramy
+
+tohle je nová poznámka
